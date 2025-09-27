@@ -53,6 +53,9 @@ Window {
                 Qt.openUrlExternally("https://gitea.ft-tech.io.vn/datlt4/QML_learn")
                 Qt.openUrlExternally("file:///Users/mabu/Downloads/AI generated/474625365_2066596610443606_2646760107196506376_n.jpg")
 
+                // Capture platform info
+                console.log("Current OS:", Qt.platform.os)
+
                 // Only after the handler finishes, the event loop processes the quit request.
             }
         }
