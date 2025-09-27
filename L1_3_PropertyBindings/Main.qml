@@ -16,13 +16,18 @@ Window {
     }
 
     Row {
+        id: rowBtnId
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.bottom: parent.bottom
+        spacing: 5
+        property int rectRadius: 5
+
         Rectangle {
             id: redRect
             color: "red"
             width: 100
             height: 100
+            radius: rowBtnId.rectRadius
 
             Text {
                 text: qsTr("Increase width by <b>10px</b>")
@@ -46,6 +51,7 @@ Window {
             color: "blue"
             width: 100
             height: 100
+            radius: rowBtnId.rectRadius
 
             Text {
                 text: qsTr("Break the binding<br>Replace binding with static value")
@@ -69,6 +75,7 @@ Window {
             color: "yellow"
             width: 100
             height: 100
+            radius: rowBtnId.rectRadius
 
             Text {
                 text: qsTr("Break the binding<br>Replace binding with static value")
@@ -92,6 +99,7 @@ Window {
             color: "cyan"
             width: 100
             height: 100
+            radius: rowBtnId.rectRadius
 
             Text {
                 text: qsTr("Decrease width by 10%")
@@ -115,6 +123,7 @@ Window {
             color: "green"
             width: 100
             height: 100
+            radius: rowBtnId.rectRadius
 
             Text {
                 text: qsTr("Restore property binding")
