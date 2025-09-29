@@ -17,6 +17,15 @@ qt_add_qml_module(appL3_3_QtAddResource
     VERSION 1.0
     QML_FILES
         Main.qml
+
+    # RESOURCES
+    #     images/LearnQt.png
+    # RESOURCE_PREFIX /
+)
+
+qt_add_resources (appL3_3_QtAddResource "qml"
+    PREFIX /
+    FILES images/LearnQt.png
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
