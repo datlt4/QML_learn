@@ -1,0 +1,5 @@
+module Buttons
+RedButton 1.0 RedButton.qml
+GreenButton 1.0 GreenButton.qml
+YellowButton 1.0 YellowButton.qml
+
