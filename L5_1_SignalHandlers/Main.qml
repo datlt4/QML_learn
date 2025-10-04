@@ -26,12 +26,12 @@ Window {
                                  console.log("Double Clicked on the rectangle", mouse.x, mouse.y)
                              }
 
-            onEntered: mouse => {
-                           console.log("You are in!", mouse.x, mouse.y)
+            onEntered: {
+                           console.log("You are in!")
                        }
 
-            onExited: mouse => {
-                          console.log("You are out!", mouse.x, mouse.y)
+            onExited: {
+                          console.log("You are out!")
                       }
 
             onWheel: mouse => {
