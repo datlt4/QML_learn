@@ -91,3 +91,7 @@
 ## L6_1_TextInput
 
 ![alt text](assets/L6_1_TextInput.png)
+
+## L6_2_BetterTextInput
+
+![alt text](assets/L6_2_BetterTextInput.png)
