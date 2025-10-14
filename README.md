@@ -87,3 +87,7 @@
 ## L5_10_SignalMultipleParameters
 
 ![alt text](assets/L5_10_SignalMultipleParameters.png)
+
+## L6_1_TextInput
+
+![alt text](assets/L6_1_TextInput.png)
