@@ -107,3 +107,7 @@
 ## L6_5_KeysAttachedProperty
 
 ![alt text](assets/L6_5_KeysAttachedProperty.png)
+
+## L6_6_KeyNavigation
+
+![alt text](assets/L6_6_KeyNavigation.png)
