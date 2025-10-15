@@ -111,3 +111,7 @@
 ## L6_6_KeyNavigation
 
 ![alt text](assets/L6_6_KeyNavigation.png)
+
+## L6_7_FocusScope
+
+![alt text](assets/L6_7_FocusScope.png)
