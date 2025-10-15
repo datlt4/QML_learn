@@ -103,3 +103,7 @@
 ## L6_4_MouseArea
 
 ![alt text](assets/L6_4_MouseArea.png)
+
+## L6_5_KeysAttachedProperty
+
+![alt text](assets/L6_5_KeysAttachedProperty.png)
