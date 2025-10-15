@@ -99,3 +99,7 @@
 ## L6_3_TextEdit
 
 ![alt text](assets/L6_3_TextEdit.png)
+
+## L6_4_MouseArea
+
+![alt text](assets/L6_4_MouseArea.png)
