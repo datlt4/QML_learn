@@ -115,3 +115,11 @@
 ## L6_7_FocusScope
 
 ![alt text](assets/L6_7_FocusScope.png)
+
+## L7_1_JavaScriptUsage
+
+![alt text](assets/L7_1_JavaScriptUsage.png)
+
+## L7_4_JsDirectImport
+
+![alt text](assets/L7_4_JsDirectImport.png)
