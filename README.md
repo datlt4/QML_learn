@@ -123,3 +123,7 @@
 ## L7_4_JsDirectImport
 
 ![alt text](assets/L7_4_JsDirectImport.png)
+
+## L7_5_JsIndirectImport
+
+![alt text](assets/L7_5_JsIndirectImport.png)
