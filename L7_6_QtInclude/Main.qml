@@ -1,12 +1,12 @@
 import QtQuick
-import "utilities1.js" as Utilities1
+import "Utilities1.js" as Utilities1
 
 Window {
     id: rootId
     width: 640
     height: 480
     visible: true
-    title: qsTr("QML - Javascript Indirect Import")
+    title: qsTr("QML - Qt.include")
 
     Rectangle {
         color: "#704C5E"
@@ -19,7 +19,7 @@ Window {
             anchors.fill: parent
             onClicked: {
                 Utilities1.greeting()
-                // console.log("Object:", Utilities2.getObject()) // Error
+                console.log("Object:", Utilities1.getObject())
             }
         }
     }

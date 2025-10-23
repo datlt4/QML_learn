@@ -127,3 +127,7 @@
 ## L7_5_JsIndirectImport
 
 ![alt text](assets/L7_5_JsIndirectImport.png)
+
+## L7_6_QtInclude
+
+![alt text](assets/L7_6_QtInclude.png)
