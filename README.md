@@ -131,3 +131,7 @@
 ## L7_6_QtInclude
 
 ![alt text](assets/L7_6_QtInclude.png)
+
+## L7_7_JavascriptModules
+
+![alt text](assets/L7_7_JavascriptModules.png)
