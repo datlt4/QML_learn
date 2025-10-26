@@ -135,3 +135,11 @@
 ## L7_7_JavascriptModules
 
 ![alt text](assets/L7_7_JavascriptModules.png)
+
+## L7_8_QMLModulesUtilities
+
+<!-- ![alt text](assets/L7_8_QMLModulesUtilities.png) -->
+
+## L8_2_Anchors
+
+![alt text](assets/L8_2_Anchors.png)
