@@ -80,3 +80,5 @@ CMakeLists.txt.user*
 .rcc/
 .uic/
 build*/
+
+L7_8_QMLModulesUtilities/
