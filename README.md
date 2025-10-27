@@ -148,3 +148,7 @@
 
 ![alt text](assets/L8_3_AnchorMarginAndOffset.png)
 
+## L8_5_Positioners
+
+![alt text](assets/L8_5_Positioners.png)
+
