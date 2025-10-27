@@ -152,3 +152,6 @@
 
 ![alt text](assets/L8_5_Positioners.png)
 
+## L8_6_Layouts
+
+![alt text](assets/L8_6_Layouts.png)
