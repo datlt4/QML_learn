@@ -11,25 +11,25 @@ Window {
         columns: 2
         horizontalItemAlignment: Grid.AlignRight
         verticalItemAlignment: Grid.AlignVCenter
-        Rectangle{
+        Rectangle {
             width: 100
             height: 100
             color: "#F15025"
         }
 
-        Rectangle{
+        Rectangle {
             width: 150
             height: 150
             color: "#659B5E"
         }
 
-        Rectangle{
+        Rectangle {
             width: 150
             height: 150
             color: "#A690A4"
         }
 
-        Rectangle{
+        Rectangle {
             width: 150
             height: 150
             color: "#82DDF0"
