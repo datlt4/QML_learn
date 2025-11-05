@@ -171,3 +171,6 @@
 
 ## L9_5_ComboBox
 ![alt text](assets/L9_5_ComboBox.png)
+
+## L9_6_DelayButton
+![alt text](assets/L9_6_DelayButton.png)
