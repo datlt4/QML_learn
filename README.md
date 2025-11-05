@@ -174,3 +174,6 @@
 
 ## L9_6_DelayButton
 ![alt text](assets/L9_6_DelayButton.png)
+
+## L9_7_Dial
+![alt text](assets/L9_7_Dial.png)
