@@ -186,3 +186,6 @@
 
 ## L9_10_SwipeViewPageIndicator
 ![alt text](assets/L9_10_SwipeViewPageIndicator.png)
+
+## L9_11_ProgressBar
+![alt text](assets/L9_11_ProgressBar.png)
