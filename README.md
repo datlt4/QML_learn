@@ -183,3 +183,6 @@
 
 ## L9_9_GroupBoxRadioCheckButton
 ![alt text](assets/L9_9_GroupBoxRadioCheckButton.png)
+
+## L9_10_SwipeViewPageIndicator
+![alt text](assets/L9_10_SwipeViewPageIndicator.png)
