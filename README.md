@@ -189,3 +189,6 @@
 
 ## L9_11_ProgressBar
 ![alt text](assets/L9_11_ProgressBar.png)
+
+## L9_12_RangeSlider
+![alt text](assets/L9_12_RangeSlider.png)
