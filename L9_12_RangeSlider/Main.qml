@@ -9,16 +9,16 @@ Window {
 
     RangeSlider {
         anchors.centerIn: parent
-        width: parent.width*0.6
+        width: parent.width * 0.6
         from: 1
         to: 100
         first.value: 25
         second.value: 75
-        first.onValueChanged: ()=>{
+        first.onValueChanged: () => {
                                   console.log("first.value:", first.value)
                               }
-        second.onValueChanged: ()=>{
-                                  console.log("second.value:", second.value)
-                              }
+        second.onValueChanged: () => {
+                                   console.log("second.value:", second.value)
+                               }
     }
 }
