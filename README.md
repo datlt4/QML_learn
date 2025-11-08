@@ -192,3 +192,6 @@
 
 ## L9_12_RangeSlider
 ![alt text](assets/L9_12_RangeSlider.png)
+
+## L9_13_FlickableScrollBar
+![alt text](assets/L9_13_FlickableScrollBar.png)
