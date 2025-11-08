@@ -195,3 +195,6 @@
 
 ## L9_13_FlickableScrollBar
 ![alt text](assets/L9_13_FlickableScrollBar.png)
+
+## L9_14_Slider
+![alt text](assets/L9_14_Slider.png)
