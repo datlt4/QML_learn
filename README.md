@@ -198,3 +198,6 @@
 
 ## L9_14_Slider
 ![alt text](assets/L9_14_Slider.png)
+
+## L9_15_Switch
+![alt text](assets/L9_15_Switch.png)
