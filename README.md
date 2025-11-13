@@ -214,3 +214,6 @@
 
 ## L9_18_TextFieldLabel
 ![alt text](assets/L9_18_TextFieldLabel.png)
+
+## L9_19_SplitView
+![alt text](assets/L9_19_SplitView.png)
