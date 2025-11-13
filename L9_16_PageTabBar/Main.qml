@@ -34,11 +34,6 @@ Window {
             Rectangle {
                 anchors.fill: parent
                 color: "#DB2763"
-                Image {
-                    anchors.centerIn: parent
-                    fillMode: Image.PreserveAspectFit
-                    source: "qrc:/images/1.png"
-                }
                 InnerItem {
                     anchors.fill: parent
                 }
@@ -49,11 +44,6 @@ Window {
             Rectangle {
                 anchors.fill: parent
                 color: "#B0DB43"
-                Image {
-                    anchors.centerIn: parent
-                    fillMode: Image.PreserveAspectFit
-                    source: "qrc:/images/2.png"
-                }
                 InnerItem {
                     anchors.fill: parent
                 }
@@ -64,11 +54,6 @@ Window {
             Rectangle {
                 anchors.fill: parent
                 color: "#12EAEA"
-                Image {
-                    anchors.centerIn: parent
-                    fillMode: Image.PreserveAspectFit
-                    source: "qrc:/images/3.png"
-                }
                 InnerItem {
                     anchors.fill: parent
                 }
