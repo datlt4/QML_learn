@@ -205,3 +205,6 @@
 ## L9_16_PageTabBar
 ![alt text](assets/L9_16_PageTabBar1.png)
 ![alt text](assets/L9_16_PageTabBar2.png)
+
+## L9_16_2_PageTabBar
+![alt text](assets/L9_16_2_PageTabBar.png)
