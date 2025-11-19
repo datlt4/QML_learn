@@ -232,3 +232,6 @@
 
 ## L10_4_FolderDialog
 ![alt text](assets/L10_4_FolderDialog.png)
+
+## L10_5_FontDialog
+![alt text](assets/L10_5_FontDialog.png)
