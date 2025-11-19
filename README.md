@@ -235,3 +235,6 @@
 
 ## L10_5_FontDialog
 ![alt text](assets/L10_5_FontDialog.png)
+
+## L10_6_MessageDialog
+![alt text](assets/L10_6_MessageDialog.png)
