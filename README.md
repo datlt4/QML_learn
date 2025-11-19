@@ -223,3 +223,6 @@
 
 ## L9_21_ApplicationWindow
 ![alt text](assets/L9_21_ApplicationWindow.png)
+
+## L10_2_ColorDialog
+![alt text](assets/L10_2_ColorDialog.png)
