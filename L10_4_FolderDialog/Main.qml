@@ -17,7 +17,7 @@ Window {
             text: "Select Folder"
             Layout.alignment: Qt.AlignHCenter
             onClicked: () => {
-                           console.log("Select File")
+                           console.log("Select Folder")
                            folderDialogId.open()
                        }
         }
