@@ -265,3 +265,8 @@
 ## L10_6_MessageDialog
 
 [![alt text](assets/L10_6_MessageDialog.png)](L10_6_MessageDialog/Main.qml)
+
+## L10_7_CustomDialog
+
+|[![alt text](assets/L10_7_CustomDialog-1.png)](L10_7_CustomDialog/Main.qml)|[![alt text](assets/L10_7_CustomDialog-2.png)](L10_7_CustomDialog/Main.qml)|[![alt text](assets/L10_7_CustomDialog-3.png)](L10_7_CustomDialog/Main.qml)|[![alt text](assets/L10_7_CustomDialog-4.png)](L10_7_CustomDialog/Main.qml)|[![alt text](assets/L10_7_CustomDialog-5.png)](L10_7_CustomDialog/Main.qml)|
+|---|---|---|---|---|
