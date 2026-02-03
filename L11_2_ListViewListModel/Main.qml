@@ -266,12 +266,12 @@ Window {
         id: myDelegateId
 
         Rectangle {
-            height: 50
+            height: 80
             width: myViewId.width
             Rectangle {
                 width: parent.width - 30
-                height: parent.height
-                anchors.horizontalCenter: parent.horizontalCenter
+                height: parent.height - 20
+                anchors.centerIn: parent
                 color: "#3eb1d4"
                 border.color: "#113663"
                 radius: 5
