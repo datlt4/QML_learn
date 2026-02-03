@@ -287,3 +287,7 @@
 ## L11_5_DecorationSection
 
 [![alt text](assets/L11_5_DecorationSection.png)](L11_5_DecorationSection/Main.qml)
+
+## L11_7_DynamicModels
+
+[![alt text](assets/L11_7_DynamicModels.png)](L11_7_DynamicModels/Main.qml)
