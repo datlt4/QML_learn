@@ -283,3 +283,7 @@
 ## L11_4_HeaderFooterHightlight
 
 [![alt text](assets/L11_4_HeaderFooterHightlight.png)](L11_4_HeaderFooterHightlight/Main.qml)
+
+## L11_5_DecorationSection
+
+[![alt text](assets/L11_5_DecorationSection.png)](L11_5_DecorationSection/Main.qml)
