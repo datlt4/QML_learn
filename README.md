@@ -279,3 +279,7 @@
 ## L11_3_InlineModel
 
 [![alt text](assets/L11_3_InlineModel.png)](L11_3_InlineModel/Main.qml)
+
+## L11_4_HeaderFooterHightlight
+
+[![alt text](assets/L11_4_HeaderFooterHightlight.png)](L11_4_HeaderFooterHightlight/Main.qml)
