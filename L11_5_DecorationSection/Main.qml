@@ -105,7 +105,8 @@ Window {
         id: sectionDelegateId
 
         Rectangle {
-            required property string section
+            required property string section   // ⭐ BẮT BUỘC
+
             color: "#6e2c6d"
             width: myViewId.width
             height: 50
