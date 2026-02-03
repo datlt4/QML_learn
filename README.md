@@ -275,3 +275,7 @@
 ## L11_2_ListViewListModel
 
 [![alt text](assets/L11_2_ListViewListModel.png)](L11_2_ListViewListModel/Main.qml)
+
+## L11_3_InlineModel
+
+[![alt text](assets/L11_3_InlineModel.png)](L11_3_InlineModel/Main.qml)
