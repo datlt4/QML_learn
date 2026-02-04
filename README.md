@@ -291,3 +291,7 @@
 ## L11_7_DynamicModels
 
 [![alt text](assets/L11_7_DynamicModels.png)](L11_7_DynamicModels/Main.qml)
+
+## L11_8_GridView
+
+[![alt text](assets/L11_8_GridView.png)](L11_8_GridView/Main.qml)
