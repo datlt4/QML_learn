@@ -299,3 +299,7 @@
 ## L11_9_XmlListModel
 
 [![alt text](assets/L11_9_XmlListModel.png)](L11_9_XmlListModel/Main.qml)
+
+## L11_10_PathView
+
+[![alt text](assets/L11_10_PathView.png)](L11_10_PathView/Main.qml)
