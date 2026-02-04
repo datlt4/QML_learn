@@ -295,3 +295,7 @@
 ## L11_8_GridView
 
 [![alt text](assets/L11_8_GridView.png)](L11_8_GridView/Main.qml)
+
+## L11_9_XmlListModel
+
+[![alt text](assets/L11_9_XmlListModel.png)](L11_9_XmlListModel/Main.qml)
